@@ -3,6 +3,7 @@
 > HBuilderX 3.3.7-alpha，支持使用CLI发行uni-app项目到H5。
 
 通过此种方式，可在命令行或其它CI工具中，完成uni-app项目到H5的编译、上传。
+注意事项：执行命令前，请确认HBuilderX已启动，或者执行'cli open'命令，并等待几秒钟才能执行'cli publish'。
 
 ## 命令语法@cmd
 
